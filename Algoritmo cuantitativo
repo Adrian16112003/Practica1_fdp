@@ -1,0 +1,41 @@
+Renteria Ruiz Angel Adrian
+Algoritmo Cuantitativo
+EJEMPLOS DE ALGORITMOS
+
+2.- Leer dos números cualesquiera y mostrarlos
+ANALISIS
+ENTRADA: 2 números cualquiera
+RESTRICCIONES: Que sean números y que sean dos
+SALIDA: 2 números cualquiera
+
+DISEÑO
+1.- Inicio
+2.- Tener dos números cualquiera
+3.- Solicitar dos números cualquiera
+4.- Leer los dos números cualquiera
+5.- Mostrar los dos números cualquiera leído
+6.- Fin
+
+2.- Leer un número cualquiera mayor a 4 y mostrarlo
+ANALISIS
+ENTRADA: un número cualquiera
+RESTRICIONES: un número cualquiera mayor a 4
+SALIDA: un número cualquiera mayor a 4
+
+DISEÑO
+1.	Inicio
+2.	Tener un número cualquiera
+3.	Solicitar un número mayor a 4
+4.	Leer el número
+5.	¿Verificar que el número leído sea mayor a 4?
+Si, paso 6
+No, ir al paso 3
+6.	Mostrar el número leído
+7.	Fin
+
+VERIFICACIÓN
+
+numero	salida
+0.0	Solicitar un número mayor a 4
+3	Solicitar un número mayor a 4
+12.0	12.0
